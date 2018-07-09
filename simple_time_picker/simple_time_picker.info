@@ -1,0 +1,10 @@
+name = Simple Time Picker
+description = Adds buttons to time fields to adjust by 15 minute increments.
+dependencies[] = date_api
+dependencies[] = fontawesome
+dependencies[] = date
+package = Date/Time
+core = 7.x
+php = 5.2
+stylesheets[all][] = css/simple_time_picker.css
+scripts[] = js/simple_time_picker.js

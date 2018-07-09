@@ -1,0 +1,20 @@
+.time-up,
+.time-down{
+	float: right;
+	position: relative;
+	height: 0;
+	left: 5px;
+}
+.time-up:hover,
+.time-down:hover{
+	color: #999;
+	cursor: pointer;
+}
+
+.time-up{
+	bottom: 35px;
+}
+
+.time-down{
+	bottom: 19px;
+}
